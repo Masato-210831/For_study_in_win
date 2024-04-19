@@ -5,6 +5,8 @@ __pycache__/
 .Trash*
 hidden_*
 wsl_*
+*.kv
+chive*
 
 # C extensions
 *.so
